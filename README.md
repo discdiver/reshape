@@ -1,1 +1,1 @@
-# Notebook for the Medium article on reshaping pandas and NumPy data structures
+## Notebook for the Medium article on reshaping pandas and NumPy data structures
